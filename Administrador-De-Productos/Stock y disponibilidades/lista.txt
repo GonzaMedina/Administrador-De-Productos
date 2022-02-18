@@ -1,0 +1,24 @@
+galletitas arcor
+0
+100
+15
+pan lactal
+10
+300
+200
+prueba
+0
+400.0
+700.0
+prueba
+10
+200.0
+400.0
+pan lactal
+20
+400.0
+600.0
+galletitas prueba
+30
+120.0
+70.0
